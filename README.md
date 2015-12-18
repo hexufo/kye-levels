@@ -11,7 +11,7 @@ Check wikipedia's article for more information:
 https://en.wikipedia.org/wiki/Kye_%28video_game%29
 
 Get the latest version of "key levels" here:
-https://github.com/hexufo/misc
+https://github.com/hexufo/kye-levels
 
 You can find me in various places on the internet:
 hexufo @ {wordpress, twitter, github, gmail}
