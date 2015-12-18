@@ -10,7 +10,7 @@ Now there are versions for both Windows and Linux.
 Check wikipedia's article for more information:
 https://en.wikipedia.org/wiki/Kye_%28video_game%29
 
-Get the latest version of "key levels" here:
+Get the latest version of "kye levels" here:
 https://github.com/hexufo/kye-levels
 
 You can find me in various places on the internet:
