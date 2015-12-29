@@ -13,6 +13,11 @@ https://en.wikipedia.org/wiki/Kye_%28video_game%29
 Get the latest version of "kye levels" here:
 https://github.com/hexufo/kye-levels
 
+Robert Phipps was kind enough to host "key levels" on his site too.
+Check Robert's site with much information about the game and many levels:
+http://kye.me.uk/
+http://kye.me.uk/levels.html
+
 You can find me in various places on the internet:
 hexufo @ {wordpress, twitter, github, gmail}
 
